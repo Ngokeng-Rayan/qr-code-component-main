@@ -11,8 +11,8 @@ you can observe screenshots of the mobile and desktop view in the folder ('./des
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Ngokeng-Rayan/qr-code-component-main)
-- Live Site URL: [Add live site URL here](https://qr-code-component-main-tawny-two.vercel.app/)
+- Solution URL: (https://github.com/Ngokeng-Rayan/qr-code-component-main)
+- Live Site URL: (https://qr-code-component-main-tawny-two.vercel.app/)
 
 ## My process
 
